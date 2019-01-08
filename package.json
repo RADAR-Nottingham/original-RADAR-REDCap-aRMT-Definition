@@ -4,7 +4,7 @@
   "description": "Utility to convert REDCap JSON to aRMT JSON",
   "dependencies": {
     "crypto": "^1.0.1",
-    "github": "^12.0.3",
+    "github": "^14.0.0",
     "npm": "^6.4.1",
     "request": "^2.83.0",
     "underscore": "^1.8.3"
